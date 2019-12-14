@@ -1,0 +1,17 @@
+{
+	"name": "lab9",
+	"version": "0.0.0",
+	"description": "A simple example deployed using react-codesandboxer",
+	"main": "index.js",
+	"engines": {
+		"node": "9.5.0",
+		"npm": "5.7.1"
+	},
+	"dependencies": {
+		"react-router-dom": "latest",
+		"react-scripts": "2.0.0",
+		"react": "latest",
+		"react-dom": "latest"
+	},
+	"keywords": []
+}
